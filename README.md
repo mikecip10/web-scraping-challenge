@@ -1,6 +1,6 @@
 # web-scraping-challenge
 Homework 12
-HTML URL:
+HTML URL:https://mikecip10.github.io/web-scraping-challenge/index
 
 # Step 1
 I created a jupyter notebook that pulled the needed information from the Nasa wesbite. The information included:
